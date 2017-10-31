@@ -2,5 +2,5 @@ package elbaulp
 
 object Hello extends App {
   println("Hello")
-  println(Category.Id(11111))
+  println(Category.haskCategory.id(11111))
 }
